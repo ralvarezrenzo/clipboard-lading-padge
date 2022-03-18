@@ -394,4 +394,7 @@ section{
     width: 56px;
     text-align: center;
     }
+    header{
+        background-image: url(../images/bg-header-desktop.png);
+    }
 }
